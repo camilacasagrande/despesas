@@ -1,0 +1,18 @@
+/*ESTILO PARA A TABELA*/
+
+/*estilos de bordas e cores da tabela*/
+table, td, th{
+    border: solid 1px powderblue;
+}
+td{
+    width: 100px;
+    font-size: 20px;
+}
+th{
+    font-size: 25px;
+    background-color: aliceblue;
+}
+tr:hover {background-color: aliceblue}
+
+
+/*Estilo de comportamento da tabela*/
